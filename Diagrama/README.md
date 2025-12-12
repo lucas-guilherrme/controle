@@ -3,6 +3,9 @@
 
 ---
 
+<img width="222" height="227" alt="image" src="https://github.com/user-attachments/assets/ed280b3e-01d8-4665-ac9f-bd359c81e4de" />
+
+
 - [Introdução](#Introdução)
 
 # 📜Introdução
